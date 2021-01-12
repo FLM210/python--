@@ -1,5 +1,0 @@
-('D:\\python脚本\\build\\巡检脚本\\pyuserinput-0.1.12-py3.7.egg',
- None,
- {'*.pyw', '*.cp37-win_amd64.pyd', '*.pyd', 'EGG-INFO', '*.py', '*.pyc'},
- 'DATA',
- [])
