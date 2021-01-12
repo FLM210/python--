@@ -1,0 +1,5 @@
+('D:\\python脚本\\build\\获取鼠标坐标\\pyuserinput-0.1.12-py3.7.egg',
+ None,
+ {'EGG-INFO', '*.py', '*.pyc', '*.cp37-win_amd64.pyd', '*.pyd', '*.pyw'},
+ 'DATA',
+ [])
